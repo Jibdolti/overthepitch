@@ -6,7 +6,7 @@
 .section { height: 100vh; font-size: 2em; background-size: cover; background-position: center; background-repeat: no-repeat; position: relative; width: 100vw; /* 전체 화면 너비 */ overflow: hidden; color: #fff; } 
 
 nav { position: fixed; width: 100%; z-index: 7; } 
-#fullpage > div { text-align: center; }
+#fullpage > div { text-align: left; }
 #fp-nav ul li a span { background: orange; } 
 #fp-nav ul li a.active span { background: #B40A1C; } 
 
